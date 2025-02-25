@@ -22,7 +22,7 @@ I specialize in test automation using Cypress, Selenium, and Python. Passionate 
 - 🎓 [Smartbear TestComplete](https://drive.google.com/file/d/1utT_HeMwfF49ZZyXXXQMBNrRhwvmeosv/view?usp=sharing)
 
 ## 🔗 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bobghosh91/)  
+- 💼 [Twitter](https://x.com/ghosh0B/)  
 - 📧 Email: bobghosh91@gmail.com 
 
 ---  
